@@ -16,7 +16,7 @@ namespace Suma.cs
             n2 = int.Parse(Console.ReadLine());
 
             Suma = n1 + n2;
-            Console.WriteLine("El resultado de la multiplicacion es: " + Suma);
+            Console.WriteLine("El resultado de la suma es: " + Suma);
         }
     }
 }
